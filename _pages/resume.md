@@ -1,4 +1,5 @@
 ---
+layout: single
 permalink: /resume/
 title: "Resume"
 excerpt: "Download and view my resume"
