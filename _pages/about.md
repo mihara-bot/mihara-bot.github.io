@@ -17,10 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Master's student in Computer Science and Technology at East China Normal University and a visiting student at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) in Abu Dhabi, UAE. My research focuses on data-centric machine learning methods for enhancing the performance of Large Language Models (LLMs) and Vision-Language Models (VLMs). I am particularly passionate about exploring data selection, data processing, and efficient training strategies for large multimodal models.
-
-My recent work has achieved significant recognition, including the **ACL 2025 Best Theme Paper Award** (3 out of 8000+ submissions) for our work on data selection for pre-training language models. 
-
+I am currently a Master's student in Computer Science and Technology at East China Normal University, advised by Prof.[Ying Qian](https://faculty.ecnu.edu.cn/_s16/qy2_en/main.psp) and a visiting student at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) in Abu Dhabi, UAE, advised by Prof.[Eran Segal](https://scholar.google.com/citations?user=oAD8PrkAAAAJ) and Prof.[Imran Razzak](https://scholar.google.com/citations?user=GlXI4N8AAAAJ). 
+My research focuses on data-centric machine learning methods for enhancing the performance of Large Language Models (LLMs) and Vision-Language Models (VLMs). I am particularly passionate about exploring data selection, data processing, and efficient training strategies for large multimodal models.
 I am actively involved in the academic community as a reviewer for top-tier conferences including ACL ARR, IJCNN, and journals such as Applied Intelligence. 
 
 # 🔥 News
