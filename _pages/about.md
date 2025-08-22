@@ -47,6 +47,5 @@ I am actively involved in the academic community as a reviewer for top-tier conf
 - *2019.09 - 2023.06*, **Bachelor of Engineering in Computer Science and Technology**, Ocean University of China, Qingdao, China. GPA: 3.80/4.0, Rank: 8/269
 
 # Internships
-- *2025.05 - Present*, **Visiting Student**, Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), Abu Dhabi, UAE. Research focus: exploring machine learning methods for efficient large multimodal models training and medical reasoning tasks.
-- *2024.04 - 2025.04*, **Algorithm Intern**, Bigdata Research Center, Shanghai AI Laboratory, China. Research focus: data processing (data cleansing and selection) for efficient LLM training.
-- **Reviewer**: ACL ARR and related workshops, IJCNN, Applied Intelligence journal
+- *2025.05 - Present*, **Visiting Student**, Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), Abu Dhabi, UAE. Research focus: exploring machine learning methods for efficient large multimodal models training and medical reasoning tasks. Advisor: Prof.[Eran Segal](https://scholar.google.com/citations?user=oAD8PrkAAAAJ) and Prof.[Imran Razzak](https://scholar.google.com/citations?user=GlXI4N8AAAAJ)
+- *2024.04 - 2025.04*, **Algorithm Intern**, OpenDataLab Team, Shanghai AI Laboratory, China. Research focus: data processing (data cleansing and selection) for efficient LLM training. Advisor: Prof.[Conghui He](https://conghui.github.io/)
