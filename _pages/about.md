@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Xinlin Zhuang"
+excerpt: "Personal homepage of Xinlin Zhuang"
 author_profile: true
 redirect_from: 
   - /about/
