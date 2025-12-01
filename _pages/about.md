@@ -18,15 +18,15 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am currently a Master's student in Computer Science and Technology at East China Normal University, advised by Prof. [Ying Qian](https://faculty.ecnu.edu.cn/_s16/qy2_en/main.psp) and a visiting student at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) in Abu Dhabi, UAE, advised by Prof. [Eran Segal](https://scholar.google.com/citations?user=oAD8PrkAAAAJ) and Prof. [Imran Razzak](https://scholar.google.com/citations?user=GlXI4N8AAAAJ). 
-My research focuses on data-centric machine learning methods for enhancing the performance of Large Language Models (LLMs) and Vision-Language Models (VLMs). I am particularly passionate about exploring data selection, data processing, and efficient training strategies for large multimodal models.
-I am actively involved in the academic community as a reviewer for top-tier conferences including ACL ARR, IJCNN, and journals such as Applied Intelligence. 
+My research focuses on data-centric machine learning methods for enhancing the performance of Large Language Models (LLMs) and Vision-Language Models (VLMs). I am particularly passionate about exploring data selection, data processing, and efficient training strategies.
+I am actively involved in the academic community as a reviewer for top-tier conferences including ACL ARR, CVPR, ICLR, and journals such as Applied Intelligence. 
 
 # 🔥 News
 
 - *2025.07*: &nbsp;🏆🏆 Our paper "Meta-rater: A Multi-dimensional Data Selection Method for Pre-training Language Models" won **ACL 2025 Best Theme Paper Award** (3/8000+)!
 - *2025.05*: &nbsp;🎉🎉 Started my visiting research position at MBZUAI, Abu Dhabi, focusing on multimodal model training and medical reasoning.
 - *2025.01*: &nbsp;🎊🎊 Our paper "Harnessing Diversity for Important Data Selection in Pretraining Large Language Models" accepted as **ICLR 2025 Spotlight** (Top 5%).
-- *2024.04*: &nbsp;💼💼 Joined Shanghai AI Laboratory as Algorithm Intern, focusing on data processing for efficient LLM training.
+- *2024.04*: &nbsp;💼💼 Joined Shanghai AI Laboratory as LLM Research Intern, focusing on data processing for efficient LLM training.
 
 # 📝 Publications 
 
@@ -48,4 +48,4 @@ I am actively involved in the academic community as a reviewer for top-tier conf
 
 # 💻 Internships
 - *2025.05 - Present*, **Visiting Student**, Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), Abu Dhabi, UAE. Research focus: exploring machine learning methods for efficient large multimodal models training and medical reasoning tasks. Advisor: Prof. [Eran Segal](https://scholar.google.com/citations?user=oAD8PrkAAAAJ) and Prof.   [Imran Razzak](https://scholar.google.com/citations?user=GlXI4N8AAAAJ)
-- *2024.04 - 2025.04*, **Algorithm Intern**, OpenDataLab Team, Shanghai AI Laboratory, China. Research focus: data processing (data cleansing and selection) for efficient LLM training. Advisor: Prof. [Conghui He](https://conghui.github.io/)
+- *2024.04 - 2025.04*, **LLM Research Intern**, OpenDataLab Team, Shanghai AI Laboratory, China. Research focus: data processing (data cleansing and selection) for efficient LLM training. Advisor: Prof. [Conghui He](https://conghui.github.io/)
