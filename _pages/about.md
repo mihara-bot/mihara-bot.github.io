@@ -23,8 +23,9 @@ I am actively involved in the academic community as a reviewer for top-tier conf
 
 # 🔥 News
 
+- *2026.01*: &nbsp;💼💼 Started my research intern position at Shopee AI Team, focusing on efficient LLM pre-training.
 - *2025.07*: &nbsp;🏆🏆 Our paper "Meta-rater: A Multi-dimensional Data Selection Method for Pre-training Language Models" won **ACL 2025 Best Theme Paper Award** (3/8000+)!
-- *2025.05*: &nbsp;🎉🎉 Started my visiting research position at MBZUAI, Abu Dhabi, focusing on multimodal model training and medical reasoning.
+- *2025.05*: &nbsp;💼💼 Started my visiting research position at MBZUAI, Abu Dhabi, focusing on multimodal model training and medical reasoning.
 - *2025.01*: &nbsp;🎊🎊 Our paper "Harnessing Diversity for Important Data Selection in Pretraining Large Language Models" accepted as **ICLR 2025 Spotlight** (Top 5%).
 - *2024.04*: &nbsp;💼💼 Joined Shanghai AI Laboratory as LLM Research Intern, focusing on data processing for efficient LLM training.
 
@@ -47,5 +48,6 @@ I am actively involved in the academic community as a reviewer for top-tier conf
 - *2019.09 - 2023.06*, **Bachelor of Engineering in Computer Science and Technology**, Ocean University of China, Qingdao, China. GPA: 3.80/4.0, Rank: 8/269
 
 # 💻 Internships
+- *2026.01 - Present*, **LLM Research Intern**, Shopee AI Team, Shanghai.
 - *2025.05 - Present*, **Visiting Student**, Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), Abu Dhabi, UAE. Research focus: exploring machine learning methods for efficient large multimodal models training and medical reasoning tasks. Advisor: Prof. [Eran Segal](https://scholar.google.com/citations?user=oAD8PrkAAAAJ) and Prof.   [Imran Razzak](https://scholar.google.com/citations?user=GlXI4N8AAAAJ)
 - *2024.04 - 2025.04*, **LLM Research Intern**, OpenDataLab Team, Shanghai AI Laboratory, China. Research focus: data processing (data cleansing and selection) for efficient LLM training. Advisor: Prof. [Conghui He](https://conghui.github.io/)
