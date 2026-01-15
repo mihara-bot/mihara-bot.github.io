@@ -51,3 +51,4 @@ I am actively involved in the academic community as a reviewer for top-tier conf
 - *2026.01 - Present*, **LLM Research Intern**, Shopee AI Team, Shanghai.
 - *2025.05 - Present*, **Visiting Student**, Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), Abu Dhabi, UAE. Research focus: exploring machine learning methods for efficient large multimodal models training and medical reasoning tasks. Advisor: Prof. [Eran Segal](https://scholar.google.com/citations?user=oAD8PrkAAAAJ) and Prof.   [Imran Razzak](https://scholar.google.com/citations?user=GlXI4N8AAAAJ)
 - *2024.04 - 2025.04*, **LLM Research Intern**, OpenDataLab Team, Shanghai AI Laboratory, China. Research focus: data processing (data cleansing and selection) for efficient LLM training. Advisor: Prof. [Conghui He](https://conghui.github.io/)
+- During bechelor study, I interned at Baidu and Oppo.
