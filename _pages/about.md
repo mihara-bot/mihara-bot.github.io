@@ -26,10 +26,10 @@ I am always open to research collaborations. Please feel free to contact me via 
 
 # 🔥 News
 
-- *2026.01*: &nbsp;💼💼 I joined Shopee AI Shanghai as LLM Research Intern.
-- *2025.07*: &nbsp;🏆🏆 I Won ACL 2025 Best Theme Paper Award (3/8000+).
-- *2025.05*: &nbsp;💼💼 I joined MBZUAI as Visiting Student.
-- *2024.04*: &nbsp;💼💼 I Joined Shanghai AI Laboratory as LLM Research Intern.
+- *2026.01*: &nbsp;💼 I joined Shopee AI Shanghai as LLM Research Intern.
+- *2025.07*: &nbsp;🏆 I Won ACL 2025 Best Theme Paper Award (3/8000+).
+- *2025.05*: &nbsp;💼 I joined MBZUAI as Visiting Student.
+- *2024.04*: &nbsp;💼 I Joined Shanghai AI Laboratory as LLM Research Intern.
 
 # 📝 Selected Publications 
 
