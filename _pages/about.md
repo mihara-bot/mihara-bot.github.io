@@ -26,10 +26,10 @@ I am always open to research collaborations. Please feel free to contact me via 
 
 # 🔥 News
 - *2026.02*: &nbsp;🎉 Two papers were accepted by CVPR 2026.
-- *2026.01*: &nbsp;💼 I joined Shopee AI Shanghai as LLM Research Intern.
+- *2026.01*: &nbsp;💼 I joined Shopee AI Shanghai as **LLM Research Intern**.
 - *2025.07*: &nbsp;🏆 I Won ACL 2025 Best Theme Paper Award (3/8k+ Submissions).
-- *2025.05*: &nbsp;💼 I joined MBZUAI as Visiting Student.
-- *2024.04*: &nbsp;💼 I Joined Shanghai AI Laboratory as LLM Research Intern.
+- *2025.05*: &nbsp;💼 I joined MBZUAI as **Visiting Student**.
+- *2024.04*: &nbsp;💼 I Joined Shanghai AI Laboratory as **LLM Research Intern**.
 
 # 📝 Selected Publications 
 
@@ -43,8 +43,9 @@ I am always open to research collaborations. Please feel free to contact me via 
 
 
 # 🎖 Honors
-- *2025.07* **ACL 2025 Best Theme Paper Award** (3 out of 8k+ submissions)
+
 - *2025.12* **National Scholarship**
+- *2025.07* **ACL 2025 Best Theme Paper Award** (3 out of 8k+ submissions)
 
 # 📖 Education
 - M.Eng. in Computer Science, East China Normal University, Shanghai, 2023–2026 (GPA 3.71/4.0)
@@ -55,5 +56,3 @@ I am always open to research collaborations. Please feel free to contact me via 
 - *2025.05 - Present*, **Visiting Student**, MBZUAI, Abu Dhabi.
 - *2024.04 - 2025.04*, **LLM Research Intern**, OpenDataLab, Shanghai AI Laboratory, Shanghai. 
 - Internships at Baidu and OPPO during undergraduate study
-
-
