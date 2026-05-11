@@ -53,7 +53,7 @@ I am always open to research collaborations. Please feel free to contact me via 
 - B.Eng. in Computer Science, Ocean University of China, Qingdao, 2019–2023 
 
 # 💻 Internships
-- *2026.01 - Present*, **LLM Research Intern**, Shopee AI, Shanghai.
+- *2026.01 - Present*, **LLM Research Top Intern**, Shopee AI, Shanghai.
 - *2025.05 - Present*, **Visiting Student**, MBZUAI, Abu Dhabi.
 - *2024.04 - 2025.04*, **LLM Research Intern**, OpenDataLab, Shanghai AI Laboratory, Shanghai. 
 - Internships at Baidu and OPPO during undergraduate study.
