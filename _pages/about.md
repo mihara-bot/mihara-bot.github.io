@@ -33,13 +33,13 @@ I am always open to research collaborations. Please feel free to contact me via 
 
 # 📝 Selected Publications 
 
-- [CHIPS: Efficient CLIP Adaptation via Curvature-aware Hybrid Influence-based Data Selection](https://arxiv.org/abs/2511.18519), X Zhuang, et al. **CVPR 2026**
+- [CHIPS: Efficient CLIP Adaptation via Curvature-aware Hybrid Influence-based Data Selection](https://arxiv.org/abs/2511.18519), X. Zhuang, et al. **CVPR 2026**
 
-- [Towards efficient medical reasoning with minimal fine-tuning data](https://arxiv.org/abs/2508.01450), X Zhuang, et al. **CVPR 2026**
+- [Towards efficient medical reasoning with minimal fine-tuning data](https://arxiv.org/abs/2508.01450), X. Zhuang et al. **CVPR 2026**
 
-- [Meta-rater: A Multi-dimensional Data Selection Method for Pre-training Language Models](https://aclanthology.org/2025.acl-long.533/), X Zhuang, et al.  **ACL 2025 Best Theme Paper (3/8k+ Submissions)**
+- [Meta-rater: A Multi-dimensional Data Selection Method for Pre-training Language Models](https://aclanthology.org/2025.acl-long.533/), X. Zhuang et al.  **ACL 2025 Best Theme Paper (3/8k+ Submissions)**
 
-- [TOREE: Evaluating Topic Relevance of Student Essays for Chinese Primary and Middle School Education](https://aclanthology.org/2024.findings-acl.342/), X Zhuang, et al.  **ACL 2024 Findings**
+- [TOREE: Evaluating Topic Relevance of Student Essays for Chinese Primary and Middle School Education](https://aclanthology.org/2024.findings-acl.342/), X. Zhuang et al.  **ACL 2024 Findings**
 
 
 # 🎖 Honors
