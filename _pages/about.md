@@ -33,7 +33,7 @@ I am always open to research collaborations. Please feel free to contact me via 
 
 # 📝 Selected Publications 
 
-- [CHIPS: Efficient CLIP Adaptation via Curvature-aware Hybrid Influence-based Data Selection](https://arxiv.org/abs/2511.18519), X. Zhuang, et al. **CVPR 2026**
+- [CHIPS: Efficient CLIP Adaptation via Curvature-aware Hybrid Influence-based Data Selection](https://arxiv.org/abs/2511.18519), X. Zhuang et al. **CVPR 2026**
 
 - [Towards efficient medical reasoning with minimal fine-tuning data](https://arxiv.org/abs/2508.01450), X. Zhuang et al. **CVPR 2026**
 
