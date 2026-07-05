@@ -20,7 +20,7 @@ redirect_from:
 I am a Master's student in Computer Science and Technology at East China Normal University, advised by Prof. [Ying Qian](https://faculty.ecnu.edu.cn/_s16/qy2_en/main.psp).
 I work closely with Prof. [Weiyang Liu](https://wyliu.com/) at CUHK and Prof. [Imran Razzak](https://scholar.google.com/citations?user=GlXI4N8AAAAJ) at MBZUAI. 
 Currently, I am an LLM research intern at Shopee AI.
-My research focuses on **Data-centric Machine Learning** methods and efficient strategies for **LLM Pre-training**.
+My research focuses on **Machine Learning** and **LLM Pre-training**.
 I serve as a reviewer for ACL ARR, CVPR, ICML, ICLR, NeurIPS, and Applied Intelligence.
 
 I am always open to research collaborations. Please feel free to contact me via email.
