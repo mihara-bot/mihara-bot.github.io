@@ -50,6 +50,7 @@ I am always open to research collaborations. Please feel free to contact me via 
 - *2025.07* **ACL 2025 Best Theme Paper Award** (3 out of 8k+ submissions)
 
 # 📖 Education
+- PhD student in Compputer Science, The Chinese University of Hong Kong, Hong Kong, 2026-Present
 - M.Eng. in Computer Science, East China Normal University, Shanghai, 2023–2026 
 - B.Eng. in Computer Science, Ocean University of China, Qingdao, 2019–2023 
 
