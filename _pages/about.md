@@ -21,7 +21,7 @@ I am a first-year PhD student at CUHK, advised by Prof. [Weiyang Liu](https://wy
 I work closely with Prof. [Imran Razzak](https://scholar.google.com/citations?user=GlXI4N8AAAAJ) at MBZUAI. 
 Currently, I am an LLM research intern at Shopee AI.
 My research focuses on **Machine Learning** and **LLM Pre-training**.
-I serve as a reviewer for ACL ARR, CVPR, ICML, ICLR, NeurIPS, and Applied Intelligence.
+I serve as a reviewer for ACL ARR, CVPR, ICML, ICLR, NeurIPS, AAAI, and Applied Intelligence.
 
 I am always open to research collaborations. Please feel free to contact me via email.
 
