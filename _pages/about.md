@@ -59,3 +59,9 @@ I am always open to research collaborations. Please feel free to contact me via 
 - *2025.05 - Present*, **Visiting Student**, MBZUAI, Abu Dhabi.
 - *2024.04 - 2025.04*, **LLM Research Intern**, OpenDataLab, Shanghai AI Laboratory, Shanghai. 
 - Internships at Baidu and OPPO during undergraduate study.
+
+# 🍳 Hobbies
+
+- **Cooking**: I enjoy cooking Chinese cuisine, especially Northeastern Chinese cuisine and Shandong cuisine. Recently, I have also been learning Cantonese cuisine. Some of my favorite dishes to cook include:
+  - Northeastern Chinese cuisine: Guo Bao Rou (锅包肉), Di San Xian (地三鲜), Chicken Stewed with Mushrooms (小鸡炖蘑菇), Braised Pork Ribs with Green Beans (排骨炖豆角), Sauced Pork Bones (酱大骨), Stir-fried Pork with Vegetables (溜肉段), and Braised Eggplant with Pork (肉段烧茄子).
+  - Shandong cuisine: Sweet and Sour Carp (糖醋鲤鱼), Sweet and Sour Pork Tenderloin (糖醋里脊), Braised Prawns (油焖大虾), Four-Joy Meatballs (四喜丸子), and Braised Tofu (锅塌豆腐).
