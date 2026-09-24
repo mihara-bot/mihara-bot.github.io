@@ -18,16 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a first-year PhD student at CUHK, advised by Prof. [Weiyang Liu](https://wyliu.com/).
-I work closely with Prof. [Imran Razzak](https://scholar.google.com/citations?user=GlXI4N8AAAAJ) at MBZUAI. 
-Currently, I am an LLM research intern at Shopee AI.
 My research focuses on **Machine Learning** and **LLM Pre-training**.
 I serve as a reviewer for ACL ARR, CVPR, ICML, ICLR, NeurIPS, AAAI, and Applied Intelligence.
-
 I am always open to research collaborations. Please feel free to contact me via email.
 
 # 🔥 News
 - *2026.02*: &nbsp;🎉 Two papers were accepted by CVPR 2026.
-- *2026.01*: &nbsp;💼 I joined Shopee AI Shanghai as LLM Research Top Intern.
+- *2026.01*: &nbsp;💼 I joined Shopee AI Shanghai as LLM Research Intern.
 - *2025.07*: &nbsp;🏆 I Won **ACL 2025 Best Theme Paper Award** (3/8k+ Submissions).
 - *2025.05*: &nbsp;💼 I joined MBZUAI as Visiting Student.
 - *2024.04*: &nbsp;💼 I Joined Shanghai AI Laboratory as LLM Research Intern.
@@ -55,8 +52,8 @@ I am always open to research collaborations. Please feel free to contact me via 
 - B.Eng. in Computer Science, Ocean University of China, Qingdao, 2019–2023 
 
 # 💻 Internships
-- *2026.01 - Present*, **LLM Research Top Intern**, Shopee AI, Shanghai.
-- *2025.05 - Present*, **Visiting Student**, MBZUAI, Abu Dhabi.
+- *2026.01 - Present*, **LLM Research Intern**, Shopee AI, Shanghai.
+- *2025.05 - 2026.08*, **Visiting Student**, MBZUAI, Abu Dhabi.
 - *2024.04 - 2025.04*, **LLM Research Intern**, OpenDataLab, Shanghai AI Laboratory, Shanghai. 
 - Internships at Baidu and OPPO during undergraduate study.
 
